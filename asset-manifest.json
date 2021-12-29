@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gridExercise/static/css/main.e6c13ad2.css",
+    "main.js": "/gridExercise/static/js/main.76a3bd1a.js",
+    "static/js/787.dee7428a.chunk.js": "/gridExercise/static/js/787.dee7428a.chunk.js",
+    "index.html": "/gridExercise/index.html",
+    "main.e6c13ad2.css.map": "/gridExercise/static/css/main.e6c13ad2.css.map",
+    "main.76a3bd1a.js.map": "/gridExercise/static/js/main.76a3bd1a.js.map",
+    "787.dee7428a.chunk.js.map": "/gridExercise/static/js/787.dee7428a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.76a3bd1a.js"
+  ]
+}
